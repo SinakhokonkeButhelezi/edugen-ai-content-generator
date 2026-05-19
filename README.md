@@ -22,4 +22,4 @@ Average generation time: 29.8 seconds | 30,968 tokens used across 15 generations
 Sinakhokonke Buthelezi — Individual Project, Capaciti Tech Career Accelerator (2026)
 
 ## Live Demo
-[[Add your Replit live link here]](https://content-creator-suite--sinakhokonke.replit.app/)
+https://content-creator-suite--sinakhokonke.replit.app/ 
